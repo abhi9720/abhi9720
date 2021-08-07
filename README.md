@@ -41,10 +41,11 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 --------------------------------------------------------------------
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abhi9720&show_icons=true)
---------------------------------------------------------------------
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9720&theme=blue-green)
+
+![Abhishek Repository's Stats](https://github-readme-stats.vercel.app/api?username=abhi9720&theme=radical&show_icons=true)
+![Abhishek Repository's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9720&theme=blue-green)
+ 
+
 
 --------------------------------------------------------------------
 
