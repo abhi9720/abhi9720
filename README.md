@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Abhishek Tiwari
 ![](https://visitor-badge.laobi.icu/badge?page_id=abhi9720)
-[![Github](https://img.shields.io/github/followers/abhi9720?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/abhi9720?label=Followers&logo=Github)](https://github.com/abhi9720)
 <img src="https://komarev.com/ghpvc/?username=abhi9720"/>
 ## ✉️ Find me on:
 
