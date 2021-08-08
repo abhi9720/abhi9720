@@ -9,7 +9,7 @@
   
 </div>
 
-<h2> About Me</h2>
+<h2> About Me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width = 30px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
