@@ -7,7 +7,7 @@
 
 ![badge](https://visitor-badge.laobi.icu/badge?page_id=abhi9720)
 [![Github](https://img.shields.io/github/followers/abhi9720?label=Followers&logo=Github)](https://github.com/abhi9720)
-<img src="https://komarev.com/ghpvc/?username=abhi9720"/>
+<img src="https://komarev.com/ghpvc/?username=abhi9720" >
   
 </div>
 <div>
@@ -49,10 +49,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi9720&show_icons=true&locale=en&layout=compact" alt="abhi9720" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi9720&show_icons=true&locale=en" alt="abhi9720" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi9720&show_icons=true&locale=en" alt="abhi9720" /></p>
 
 
-<h1><img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9720&" alt="abhi9720" /></h1>
+<h1 ><img align="center" marginTop="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9720&" alt="abhi9720" /></h1>
 
 <div size='20px'> Thank You for taking the time to view my GitHub Profile :smile: </div>
 
