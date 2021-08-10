@@ -10,7 +10,7 @@
 ![badge](https://visitor-badge.laobi.icu/badge?page_id=abhi9720)
 [![Github](https://img.shields.io/github/followers/abhi9720?label=Followers&logo=Github)](https://github.com/abhi9720)
 <img src="https://komarev.com/ghpvc/?username=abhi9720" >
-<img width="97%" height="440px" align="center" alt="Github" src="https://res.cloudinary.com/abhi97/image/upload/e_sharpen:100/v1628571938/recipes/readme_1_swssmj.jpg" />  
+<img  align="center" alt="Github" src="https://res.cloudinary.com/abhi97/image/upload/c_fit,e_sharpen:100,h_484,q_92,w_1899/v1628571938/recipes/readme_1_swssmj.png" />  
 </div>
 
 
