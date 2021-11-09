@@ -2,32 +2,60 @@
 
 
 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <div align="center">
-<h1 >Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-, I'm Abhishek</h1>
-<h3 >A passionate Computer Science Student and Mern Developer</h3>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
   
-![badge](https://visitor-badge.laobi.icu/badge?page_id=abhi9720)
-[![Github](https://img.shields.io/github/followers/abhi9720?label=Followers&logo=Github)](https://github.com/abhi9720)
-<img src="https://komarev.com/ghpvc/?username=abhi9720" >
-<img  align="center" alt="Github" src="https://res.cloudinary.com/abhi97/image/upload/c_fit,e_sharpen:100,h_484,q_92,w_1899/v1628571938/recipes/readme_1_swssmj.png" />  
+  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=1d3557&size=32&lines=Hey!+It's+Abhishek!;I'm+a+MERN+Developer...;MongoDb+Nodejs+React.js+Express.js...;)](https://git.io/typing-svg)
+
+  
+  
+
+
 </div>
 
+
+
+
+<p align="center">
+  
+  
+  <em>
+    Hello, I am Abhishek Tiwari a <b>pre-final year</b> undergraduate from <a href="http://www.nitmanipur.ac.in/"> <b>Nit Manipur</b></a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer( MERN ) </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
 
 <div>
   <h2> About Me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width = 30px></h2>
 
 
- <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+ <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 🔭 I’m currently working on [Facebook clone](https://github.com/abhi9720/facebook-clone)
-
 - 🌱 I’m currently learning **Reactjs**
-
 - 👯 I’m looking to collaborate on [Facebook Clone](https://github.com/abhi9720/facebook-clone)
-
 - 💬 Ask me about **Mern Stack**
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
+  
+#### A little more about me
+```javascript
+const Abhishek = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Nodejs","React", "Java", "Python"],
+  askMeAbout: ["web dev", "Automation & Scrapping", "Programming"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","React.js"],
+      backend: ["Nodejs", "JS"],
+  }
+}
+```
 
   
   </div>‎‎
@@ -66,5 +94,6 @@ ___
 
 <div align="center">
 
-### 👩‍🚀🚀 Thank You for taking the time 😄 to view my GitHub <br> Profile 👩‍🚀 🚀
+### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
 </div>
+
