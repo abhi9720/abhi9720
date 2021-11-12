@@ -6,19 +6,14 @@
 
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+ </div>
   
+<div align="center">
   
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=32&lines=Hey!+It's+Abhishek!;I'm+a+MERN+Developer...;MongoDb+Nodejs+React.js+Express.js...;I+❤+DSA..)](https://git.io/typing-svg)
-
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
   
-  
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Abhishek!;I'm+a+MERN+Developer...;❤+MongoDb+Nodejs+React.js;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
-
-
-
 
 <p align="center">
   
