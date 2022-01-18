@@ -11,8 +11,7 @@
 <div align="center">
   
   <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Abhishek!;I'm+a+MERN+Developer...;❤+MongoDb+Nodejs+React.js;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF1493&size=36&center=true&vCenter=true&width=700&lines=Hey!+It's+Abhishek!;I+Am+MERN+Developer...;%E2%9D%A4+MongoDb+Nodejs+React.js...;+%E2%9D%A4+DSA...)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
