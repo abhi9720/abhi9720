@@ -60,7 +60,7 @@ const Abhishek = {
 <a href="https://instagram.com/ishutiwari75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishutiwari75" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhi_9720" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi9720" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi9720" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashu25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashu25" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi9720" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhi9720" height="30" width="40" /></a>
 </p>‎‎
 
