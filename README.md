@@ -74,8 +74,8 @@ const Abhishek = {
 
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi9720&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="abhi9720" height="190px"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi9720&show_icons=true&locale=en&theme=cobalt" alt="abhi9720" height="190px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi9720&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="abhi9720" height="160px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi9720&show_icons=true&locale=en&theme=cobalt" alt="abhi9720" height="160px"/>
  
   
 </div>
