@@ -19,7 +19,7 @@
   
   
   <em>
-    Hello, I am Abhishek Tiwari a <b>pre-final year</b> undergraduate from <a href="http://www.nitmanipur.ac.in/"> <b>Nit Manipur</b></a>. <br>
+    Hello, I am Abhishek Tiwari a <b>Final year</b> undergraduate from <a href="http://www.nitmanipur.ac.in/"> <b>Nit Manipur</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> and a <b>Web Developer( MERN ) </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>
   </em> 
   <br>
