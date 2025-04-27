@@ -39,16 +39,18 @@
 - 💬 Ask me about **Mern Stack**
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
 
-  
 #### A little more about me
 ```javascript
 const Abhishek = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Nodejs","React", "Java", "Python"],
-  askMeAbout: ["web dev", "Automation & Scrapping", "Programming"],
+  code: ["Java", "Golang", "JavaScript", "React", "Node.js", "Spring Boot", "Python"],
+  askMeAbout: ["System Design", "Scalable Systems", "Real-Time Apps", "Backend Development", "Cloud Engineering"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap","React.js"],
-      backend: ["Nodejs", "JS"],
+      frontend: ["HTML", "CSS", "JavaScript", "React.js", "Angular", "TailwindCSS"],
+      backend: ["Spring Boot", "Golang", "Node.js", "Express", "Kafka", "Redis"],
+      databases: ["MySQL", "MongoDB", "Redis"],
+      tools: ["Docker", "AWS", "Postman", "Maven", "Swagger", "Git"],
+      devOps: ["CI/CD", "Kubernetes", "Prometheus"],
   }
 }
 ```
@@ -71,7 +73,9 @@ const Abhishek = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi9720) 
 -->
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23333A41.svg?style=for-the-badge&logo=angular&logoColor=%23E23237) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23D92C33.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kafka](https://img.shields.io/badge/kafka-%233F3A3A.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%23F7DF1E.svg?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9720&theme=default)
