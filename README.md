@@ -143,16 +143,16 @@ MERN Stack | Spring Boot | System Design | Docker | Kubernetes | DevOps <img src
 
 <!-- Language Stats -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi9720&theme=default" alt="Most Commit Language" height="140px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi9720&theme=default" alt="Repos Per Language" height="140px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi9720&theme=default" alt="Most Commit Language" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi9720&theme=default" alt="Repos Per Language" height="150px"/>
   <!-- Top Languages Compact -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9720&theme=default&hide_border=false&layout=compact" alt="Top Languages" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9720&theme=default&hide_border=false&layout=compact" alt="Top Languages" height="150px" />
 </div>
 
 <!-- General Stats & Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi9720&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9720&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi9720&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9720&theme=default" alt="GitHub Streak" height="160px"/>
 </div>
 
 [![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi9720&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
