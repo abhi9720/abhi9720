@@ -17,6 +17,7 @@
 </p>
 </div>
 
+<!--
 <div align="center">
 <h4 align="center" > 🔎 Search me on: </h4>
 <p align="center">
@@ -30,7 +31,7 @@
   <a href="https://medium.com/@abhi9720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhi9720" height="30" width="40" /></a>
 
 </p>
-</div>
+</div> -->
 
 <!--
 ## 🌐 Socials:
