@@ -124,26 +124,44 @@ MERN Stack | Spring Boot | System Design | Docker | Kubernetes | DevOps <img src
 
 ---
 
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats:
+<!-- Profile Summary -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9720&theme=default" alt="Profile Details" width="950px"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9720&theme=default)
+<!-- Language Stats -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi9720&theme=default" alt="Most Commit Language" height="180px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi9720&theme=default" alt="Repos Per Language" height="180px"/>
+  <!-- Top Languages Compact -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9720&theme=default&hide_border=false&layout=compact" alt="Top Languages" height="180px" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi9720&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi9720&theme=default)
+<!-- General Stats & Streak -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi9720&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9720&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=abhi9720&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhi9720&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9720&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi9720&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhi9720&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhi9720&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi9720&theme=light&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
+</p>
